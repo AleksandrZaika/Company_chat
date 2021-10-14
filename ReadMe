@@ -1,0 +1,7 @@
+Корпоративный он-лайн чат на Spring (Boot)
+
+слушается на localhost:8080
+
+Для подключения MySQL в файле application.yml:
+    - data_chat - заменить на имя своей БД
+    - установить username и password
